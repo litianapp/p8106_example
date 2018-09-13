@@ -2,6 +2,6 @@
 
 quick example repo for in-class git demo
 
-##here is a subsection
+## Here is a subsection
 
-lalal
+lalal what?
